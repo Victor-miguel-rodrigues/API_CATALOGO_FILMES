@@ -1,13 +1,7 @@
 Desenvolvimento de api de filmes
 
-cosumo configurado a partir do tipo de pesquisa e do nome
-descentralizador para limpar, modificar e  traduzir via chatgpt os dados automaticamente
 
-Claro. Para a **v1**, eu documentaria de forma honesta, mostrando o que ela faz hoje e também deixando claro que é uma versão de estudo/refatoração futura.
-
-Você pode colocar isso direto no `README.md`:
-
-````md
+````
 # API de Catálogo de Filmes - V1
 
 API desenvolvida em PHP puro com o objetivo de praticar desenvolvimento backend, consumo de APIs externas, manipulação de dados, banco de dados, roteamento e organização de uma aplicação em camadas.
