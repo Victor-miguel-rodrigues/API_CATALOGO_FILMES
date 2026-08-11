@@ -13,6 +13,7 @@ class ConsumoApi{
             }catch(Exception $e){
                     echo $e->getMessage();
             }
-
         }
+
+        
 }

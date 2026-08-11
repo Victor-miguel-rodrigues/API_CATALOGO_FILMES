@@ -1,0 +1,9 @@
+Options -Indexes
+
+RewriteEngine On
+
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-l
+RewriteCond %{SCRIPT_FILENAME} !-f
+
+RewriteRule ^ index.php [L,QSA]

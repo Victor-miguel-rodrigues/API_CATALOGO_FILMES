@@ -5,7 +5,10 @@
     "autoload": {
         "psr-4": {
             "Api\\Filmes\\": "src/"
-        }
+        },
+        "files": [
+             "configuration.php"
+        ]
     },
     "authors": [
         {
